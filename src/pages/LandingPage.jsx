@@ -41,7 +41,7 @@ export default function LandingPage() {
                 
                 </nav>
 
-                        <div className="flex flex-col lg:flex-row justify-between mt-10 gap-4 lg:gap-0">
+                        <div className="flex flex-col lg:flex-row justify-between mt-10 gap-4 lg:gap-0 ml-10">
                                <div className="flex flex-col gap-10 justify-center">
 
                                     <div className="flex gap-2 p-2 bg-gradient-to-r from-blue-100 via-blue-400 to-blue-700 rounded-sm md:w-[386px]">
